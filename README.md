@@ -1,6 +1,6 @@
 # Solenoid Door Lock System
-<P>
-<img align="center" width="640" alt="Screenshot 2024-06-05 at 9 54 11 PM" src="https://github.com/CodeBeginner000001/Solenoid-Door-Lock-using-EM-18/assets/92913917/b5b814de-c009-4192-9bbd-34d57518d691">
+<P align="center">
+<img width="640" alt="Screenshot 2024-06-05 at 9 54 11 PM" src="https://github.com/CodeBeginner000001/Solenoid-Door-Lock-using-EM-18/assets/92913917/b5b814de-c009-4192-9bbd-34d57518d691">
 </P>
 
 ## Table of Contents
@@ -32,8 +32,8 @@ This project involves creating a solenoid door lock system using an EM-18 RFID r
 ## Components Overview
 
 ### 16x2 LCD Display
-<p>
-<img align="center" width="640" src="https://github.com/CodeBeginner000001/Solenoid-Door-Lock-using-EM-18/assets/92913917/ead527c8-2ac8-48fb-a245-cc7164919d0c">
+<p align="center">
+<img width="640" src="https://github.com/CodeBeginner000001/Solenoid-Door-Lock-using-EM-18/assets/92913917/ead527c8-2ac8-48fb-a245-cc7164919d0c">
 </p>
 
 - **Description:** Displays up to 32 characters on two lines.
