@@ -1,5 +1,5 @@
 # Solenoid Door Lock System
-<img width="640" alt="Screenshot 2024-06-05 at 9 54 11 PM" src="https://github.com/CodeBeginner000001/Solenoid-Door-Lock-using-EM-18/assets/92913917/1a3455c5-c214-4bc8-9263-ebefbc59f84b">
+<img width="240" alt="Screenshot 2024-06-05 at 9 54 11 PM" src="https://github.com/CodeBeginner000001/Solenoid-Door-Lock-using-EM-18/assets/92913917/1a3455c5-c214-4bc8-9263-ebefbc59f84b">
 
 ## Table of Contents
 1. [Introduction](#introduction)
