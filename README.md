@@ -47,7 +47,7 @@ This project involves creating a solenoid door lock system using an EM-18 RFID r
 
 ### EM-18 RFID Reader Module
 <p>
-<img width="640" src="https://github.com/CodeBeginner000001/Solenoid-Door-Lock-using-EM-18/assets/92913917/467c9341-ebfe-4e0f-994f-d9519bdd375b">
+<img width="340" src="https://github.com/CodeBeginner000001/Solenoid-Door-Lock-using-EM-18/assets/92913917/467c9341-ebfe-4e0f-994f-d9519bdd375b">
 </p>
 
 - **Operating Frequency:** 125 KHz.
@@ -55,7 +55,7 @@ This project involves creating a solenoid door lock system using an EM-18 RFID r
 
 ### Solenoid Door Lock
 <p>
-<img width="640" src="https://github.com/CodeBeginner000001/Solenoid-Door-Lock-using-EM-18/assets/92913917/43ca318f-e122-4b47-9e80-b93280a15163">
+<img width="340" src="https://github.com/CodeBeginner000001/Solenoid-Door-Lock-using-EM-18/assets/92913917/43ca318f-e122-4b47-9e80-b93280a15163">
 </p>
 
 - **Description:** Electromechanical device controlling access through electromagnetism.
