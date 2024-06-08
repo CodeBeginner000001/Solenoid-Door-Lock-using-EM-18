@@ -77,8 +77,6 @@ This project involves creating a solenoid door lock system using an EM-18 RFID r
 1. **System Testing:** Test the system by scanning RFID tags and entering keypad codes.
 2. **Deployment:** Deploy the system for controlled access to secure areas.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Conclusion
 This project provides a secure and efficient way to control access using a combination of RFID and keypad authentication.
