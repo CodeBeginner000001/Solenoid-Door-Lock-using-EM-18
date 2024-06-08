@@ -15,8 +15,7 @@
    - [Hardware Connections](#hardware-connections)
    - [Software Implementation](#software-implementation)
    - [Testing and Deployment](#testing-and-deployment)
-5. [License](#License)
-6. [Conclusion](#conclusion)
+5. [Conclusion](#conclusion)
 
 ## Introduction
 This project involves creating a solenoid door lock system using an EM-18 RFID reader and a keypad. The system provides enhanced security and controlled access using RFID cards and a keypad.
